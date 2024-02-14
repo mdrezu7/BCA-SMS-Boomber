@@ -1,4 +1,4 @@
-# AHAD-SMS-BOMBER
+#Bangladesh Cyber Army 
 
 💞 আসসালামু আলাইকুম 
 
@@ -6,10 +6,10 @@
 
 💞 বিঃদ্রঃ কেউ খারাপ কাজে ব্যাবহার করবেন না
 
-git clone https://github.com/AHAD-VAU-KING/AHAD-SMS-BOMBER
+git clone https://github.com/mdrezu7/BCA-SMS-Boomber.git
 
 ls
 
-cd AHAD-SMS-BOMBER
+cd BCA-SMS-Boomber
 
-python AHAD-SMS-BOMBER.py
+python BCA-SMS-Boomber.py
